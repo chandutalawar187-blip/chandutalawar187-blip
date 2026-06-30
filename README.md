@@ -200,23 +200,6 @@ A focused automation tool addressing specific development challenges with intell
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/chandutalawar187-blip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandutalawar187-blip&theme=dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-</a>
-
-<a href="https://github.com/chandutalawar187-blip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandutalawar187-blip&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-</a>
-
-</div>
 
 ## 🔥 Contribution Analytics
 
