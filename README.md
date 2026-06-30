@@ -204,55 +204,41 @@ A focused automation tool addressing specific development challenges with intell
 
 </div>
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<div style="background: #0d1117; padding: 25px; border-radius: 10px; border: 1px solid #30363d; margin: 20px 0;">
+<div align="center">
 
-<div style="margin: 20px 0;">
+<a href="https://github.com/chandutalawar187-blip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandutalawar187-blip&theme=dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+</a>
 
-<div style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.05), rgba(88, 166, 255, 0.02)); padding: 15px; border-radius: 8px; margin-bottom: 15px;">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandutalawar187-blip&theme=dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/chandutalawar187-blip)
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 53, 0.05), rgba(255, 107, 53, 0.02)); padding: 15px; border-radius: 8px;">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandutalawar187-blip&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/chandutalawar187-blip)
+<a href="https://github.com/chandutalawar187-blip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandutalawar187-blip&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+</a>
 
 </div>
 
-</div>
+## 🔥 Contribution Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=chandutalawar187-blip&theme=dark&hide_border=true&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b35&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=58a6ff" alt="GitHub Streak" />
 
 </div>
 
-## Contribution Analytics
+<div align="center" style="margin: 20px 0;">
 
-<div style="background: #0d1117; padding: 25px; border-radius: 10px; border: 1px solid #30363d; margin: 20px 0;">
-
-<div style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.05), rgba(88, 166, 255, 0.02)); padding: 15px; border-radius: 8px; margin: 15px 0;">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chandutalawar187-blip&theme=dark&hide_border=true&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b35&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=58a6ff)](https://github.com/chandutalawar187-blip)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandutalawar187-blip&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area_color=0d1117" alt="Activity Graph" width="100%" />
 
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(255, 107, 53, 0.05), rgba(255, 107, 53, 0.02)); padding: 15px; border-radius: 8px; margin: 15px 0;">
+---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandutalawar187-blip&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area_color=0d1117)](https://github.com/chandutalawar187-blip)
+## 📈 GitHub Metrics & Insights
 
-</div>
+<div align="center">
 
-</div>
-
-## GitHub Metrics & Insights
-
-<div style="background: #0d1117; padding: 25px; border-radius: 10px; border: 1px solid #30363d; margin: 20px 0;">
-
-<div style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.05), rgba(88, 166, 255, 0.02)); padding: 15px; border-radius: 8px; margin: 15px 0;">
-
-![GitHub Metrics](https://metrics.lecoq.io/chandutalawar187-blip?template=classic&base=header%2C%20repositories%2C%20metadata&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata)
-
-</div>
+<img src="https://metrics.lecoq.io/chandutalawar187-blip?template=classic&base=header%2C%20repositories%2C%20metadata&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%" />
 
 </div>
 
