@@ -214,7 +214,7 @@ A focused automation tool addressing specific development challenges with intell
 
 <div align="center" style="margin: 20px 0;">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandutalawar187-blip&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area_color=0d1117" alt="Activity Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandutalawar187-blip&theme=github_dark" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -224,7 +224,7 @@ A focused automation tool addressing specific development challenges with intell
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/chandutalawar187-blip?template=classic&base=header%2C%20repositories%2C%20metadata&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
