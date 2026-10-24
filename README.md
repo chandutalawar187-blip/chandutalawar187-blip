@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+profile;CS+Engineering+Student;AI+%26+Computer+Vision;Building+Real+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+profile;CS+Engineering+Student;Cyber+Security;Building+Real+Software" alt="Typing SVG" />
 
 # chandutalawar187-blip
 
